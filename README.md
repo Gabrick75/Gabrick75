@@ -45,7 +45,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrick75&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&bg_color=13724f&text_color=000000&title_color=c2d3cb&icon_color=c2d3cb"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrick75&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&bg_color=13724f&text_color=000000&title_color=c2d3cb&icon_color=c2d3cb%22"
   />
   </div>
 
