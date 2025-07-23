@@ -12,8 +12,7 @@
 </div>
 <div align="center">
   <p align="center"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGabrick75%2F&s=40&c=2dde98&bg=00000000&no=4&ff=electrolize&tb=Profile+Visits%3A+&ta=" alt="visits">
-</div>
-      
+</div>    
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
