@@ -8,15 +8,19 @@
       <br>
       Hi there! I'm Gabrick75
       <br>
+      <br>
   </samp>
 </div>
 <div align="center">
-  <p align="center"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGabrick75%2F&s=40&c=2dde98&bg=00000000&no=4&ff=electrolize&tb=Profile+Visits%3A+&ta=" alt="visits">
-    
+  <img
+  src="https://access-counter.vercel.app/api/counter?name=Gabrick75&theme=006&length=3"
+  height="100"
+/>
+<br>
 </div>    
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=Student+of+Systems+Analysis+and+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -50,6 +54,7 @@
   </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
