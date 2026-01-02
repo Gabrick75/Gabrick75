@@ -32,7 +32,7 @@
     </tr>
     <!-- repo -->
     <tr>
-      <td colspan="3" align="left"><b>Some warehouses that can't be accommodated in the fixed display panel：</b></td>
+      <td colspan="3" align="left"><b>Some repositories：</b></td>
     </tr>
     <tr>
       <td colspan="3" align="left">
