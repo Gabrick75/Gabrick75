@@ -12,6 +12,7 @@
 </div>
 <div align="center">
   <p align="center"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGabrick75%2F&s=40&c=2dde98&bg=00000000&no=4&ff=electrolize&tb=Profile+Visits%3A+&ta=" alt="visits">
+    
 </div>    
 
 <div align="center" width="100%">
@@ -35,7 +36,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=13724f&text_color=000000&title_color=c2d3cb"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=13724f&text_color=000000&title_color=c2d3cb"
   />
 
   <br>
@@ -44,7 +45,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrick75&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&bg_color=13724f&text_color=000000&title_color=c2d3cb&icon_color=c2d3cb%22"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrick75&show_icons=true&include_all_commits=true&theme=tokyonight&layout=compact&bg_color=13724f&text_color=000000&title_color=c2d3cb&icon_color=c2d3cb%22"
   />
   </div>
 
