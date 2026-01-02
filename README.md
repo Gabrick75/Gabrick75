@@ -23,11 +23,11 @@
          <li>🌐 Visit my <a target="_blank" href="https://github.com/Gabrick75/">Github</a></li>
         </ul>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="33%">
         <img src="https://access-counter.vercel.app/api/counter?name=Gabrick75&theme=006&length=7" />
       </td>
-      <td align="center" width="50%">
-        <img width=75% src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=9999FF&text_color=000000&title_color=000000"/>
+      <td align="center" width="40%">
+        <img width=100% src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=9999FF&text_color=000000&title_color=000000"/>
       </td>
     </tr>
     <!-- repo -->
