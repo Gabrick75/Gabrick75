@@ -74,9 +74,9 @@
   </table>
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=gabrick75&theme=github&height=250" />
+      srcset="https://github-readme-activity-graph-pi.vercel.app/graph?username=gabrick75&theme=github&height=250" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=gabrick75&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=false&height=250" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrick75&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=false&height=250" />
+      srcset="https://github-readme-activity-graph-pi.vercel.app/graph?username=gabrick75&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=false&height=250" />
+    <img src="https://github-readme-activity-graph-pi.vercel.app/graph?username=gabrick75&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=false&height=250" />
   </picture>
 </div>
