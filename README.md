@@ -27,7 +27,7 @@
         <img src="https://access-counter.vercel.app/api/counter?name=Gabrick75&theme=006&length=7" />
       </td>
       <td align="center" width="40%">
-        <img width=100% src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=9999FF&text_color=000000&title_color=000000"/>
+        <img width=100% src="https://github-stats-extended.vercel.app/api?username=gabrick75&show_icons=true&include_all_commits=true&icon_color=000000&bg_color=9999FF&text_color=000000&title_color=000000"/>
       </td>
     </tr>
     <!-- repo -->
